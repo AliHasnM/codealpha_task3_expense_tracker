@@ -1,2 +1,8 @@
-# codealpha_task3_expense_tracker
-✅ Implemented a user-friendly interface for entering transactions and managing finances. ✅ Utilized React JS for efficient state management and dynamic UI updates. ✅ Styled the app with a modern and sleek design using Tailwind CSS. ✅ Displayed the total balance, income, and expenses to provide users with a comprehensive overview of their finances.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
